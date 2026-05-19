@@ -1,6 +1,2 @@
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#%F0%9F%87%A9%F0%9F%87%AA%20t.me%2FNatrixo%20BB
-trojan://PFmduUyIB3@www.visa.com.sg:2087?security=tls&amp;sni=welfare.yycx.eu.org&amp;type=ws&amp;host=welfare.yycx.eu.org&amp;path=%2F#
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#proxydotnet&lt;/code&gt;
-trojan://humanity@185.126.12.9:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#
-trojan://lWoqyLZ6xx@snappfood.ir:80/?host=wsphan.q69-cloud.ir&amp;path=%2Fmargbaaramricas&amp;security=none&amp;type=ws#
-trojan://telegram-id-privatevpns@3.77.116.109:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#
+trojan://humanity@185.126.12.9:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%F0%9F%87%AE%F0%9F%87%B725822%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+trojan://lWoqyLZ6xx@snappfood.ir:80/?host=wsphan.q69-cloud.ir&amp;path=%2Fmargbaaramricas&amp;security=none&amp;type=ws#filembad-17
